@@ -10,13 +10,13 @@
         "name": "pard",
         "lastname": "John's John's",
         "age":"23",
-        "area":"desarrollo"
+        "area":"desarrollo movil"
     },
 
     {
         "name": "Sergio",
         "lastname": "Lagunas Guitrón",
         "age":"23",
-        "area":"desarrollo"
+        "area":"desarrollo web"
     }
 ]

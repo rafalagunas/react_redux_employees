@@ -24,13 +24,21 @@ class EmployeesList extends Component {
         })
     }
 
-    
+    getEmployeeWorkArea(){
+        const {employees} = this.props
+        return Names = employees.map((employees, key) =>{
+            return <Text key={key}>{employees.area}</Text>
+        })
+
+    }
 
     render(){
         return(
             <View>
                 {this.getEmployeeName()}
                 {this.getEmployeeLastName()}
+                {this.getEmployeeAge()}
+                {this.getEmployeeWorkArea()}
 
             </View>
         )
