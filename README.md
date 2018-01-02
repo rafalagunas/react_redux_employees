@@ -1,1 +1,1 @@
-Develop of a mobile application using React-redux to visaulize the employees data
+Development of a mobile application using React-redux to visaulize the employees data
